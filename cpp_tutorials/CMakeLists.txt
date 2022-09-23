@@ -1,0 +1,12 @@
+SET(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/cpp_tutorials/bin)
+
+ADD_SUBDIRECTORY(cpp_tutorials_1)
+ADD_SUBDIRECTORY(cpp_tutorials_2)
+ADD_SUBDIRECTORY(cpp_tutorials_3)
+ADD_SUBDIRECTORY(cpp_tutorials_4)
+ADD_SUBDIRECTORY(cpp_tutorials_5)
+ADD_SUBDIRECTORY(cpp_tutorials_6)
+ADD_SUBDIRECTORY(cpp_tutorials_7)
+ADD_SUBDIRECTORY(cpp_tutorials_8)
+ADD_SUBDIRECTORY(cpp_tutorials_9)
+ADD_SUBDIRECTORY(cpp_tutorials_10)
