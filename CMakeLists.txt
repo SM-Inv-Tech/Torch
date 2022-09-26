@@ -14,4 +14,8 @@ FIND_PACKAGE(fmt)
 SET(CMAKE_PREFIX_PATH $ENV{OPENCVSYS})
 FIND_PACKAGE(OpenCV REQUIRED)
 
+# pytorch源代码库
+#ADD_SUBDIRECTORY(pytorch-src)
+
+# libtorch练习库
 ADD_SUBDIRECTORY(cpp_tutorials)
